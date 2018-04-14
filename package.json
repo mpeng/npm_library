@@ -1,0 +1,28 @@
+{
+  "name": "rary_utils",
+  "version": "1.0.0",
+  "description": "store all utility functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mpeng/npm_library.git"
+  },
+  "keywords": [
+    "mpeng",
+    "node",
+    "npm",
+    "library",
+    "util",
+    "stdlib",
+    "rary"
+  ],
+  "author": "mpeng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mpeng/npm_library/issues"
+  },
+  "homepage": "https://github.com/mpeng/npm_library#readme"
+}
