@@ -1,6 +1,6 @@
 {
   "name": "rary_utils",
-  "version": "1.0.6",
+  "version": "1.0.9",
   "description": "store all utility functions",
   "main": "index.js",
   "scripts": {
